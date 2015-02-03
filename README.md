@@ -1,3 +1,4 @@
 # Cazador
 Juego realizado en processing 
-Juego realizado con bases de processing
+para cualquier consulta o recomendacion a mi correo
+frivadeneira@udlanet.ec
